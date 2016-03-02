@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="stringhelper_justnow">Now</string>
+    <string name="stringhelper_yesterday">Yesterday</string>
+    <string name="stringhelper_minutes_before">%d mins</string>
+    <string name="stringhelper_hours_before">%d hours</string>
+    <string name="stringhelper_same_yesr">MMMMd</string>
+    <string name="stringhelper_other">MMMMd, yyyy</string>
+    <string name="stringhelper_monday">Monday</string>
+    <string name="stringhelper_tuesday">Tuesday</string>
+    <string name="stringhelper_wednesday">Wednesday</string>
+    <string name="stringhelper_thursday">Thursday</string>
+    <string name="stringhelper_friday">Friday</string>
+    <string name="stringhelper_saturday">Saturday</string>
+    <string name="stringhelper_sunday">Sunday</string>
+    
+    <string name="data_error">数据错误</string>
+    <string name="network_error">网络错误</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="param_error">缺少参数</string>
+    <string name="token_not_verify">Token失效，请重新登录。</string>
+    <string name="token_error">获取token失败</string>
+    <string name="app_exit_warning">再按一次退出程序</string>
+
+    <string name="back">返回</string>
+    <string name="app_name">59店长版</string>
+    <string name="app_main">点击进入主页</string>
+	<string name="app_refresh">刷新</string>
+	
+	<string name="waiting_process">待处理</string>
+	<string name="stocks">已完成</string>
+	<string name="canceled">已取消</string>
+	
+	<string name="shopkeeper">店主版</string>
+	<string name="company_name">上海舞九信息科技有限公司</string>
+    <!-- menu -->
+    <string name="dorm">楼主</string>
+    <string name="balance_account">账户余额：</string>
+    <string name="history_order">历史订单</string>
+    <string name="user_info">个人信息</string>
+    <string name="bbs_59">59社区</string>
+    <string name="order_received">订单统计</string>
+    <string name="loudong_manager">店铺管理</string>
+    <string name="setting">设置</string>
+    <string name="borrow_recommend">白借借用户推荐</string>
+    <string name="login">登录</string>
+    <string name="exit_login">退出登录</string>
+    <string name="error_user_name_empty">用户名不能为空！</string>
+    <string name="error_user_pwd_empty">密码不能为空！</string>
+    <!-- login -->
+    <string name="username_hint">请输入您的用户名</string>
+    <string name="password_hint">请输入您的密码</string>
+    <string name="forget_pwd">忘记密码？</string>
+    <string name="btn_login">登\t录</string>
+    <string name="login_succeed">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_working">登录中…</string>
+    <!-- select url -->
+    <string name="choose_a_environment">选择环境</string>
+    <string name="production_environment">生产环境</string>
+    <string name="stage_environment">Stage环境</string>
+    <string name="test_environment">测试环境</string>
+    <string name="qa_environment">qa环境</string>
+    <string name="selected">√</string>
+    <!-- setting -->
+    <string name="setting_push">推送新订单消息</string>
+    <string name="setting_usersuggest">意见反馈</string>
+    <string name="setting_version">版本更新</string>
+    <string name="setting_dormentry_off">%s  关</string>
+    <string name="setting_version_value">最新V%s</string>
+    <string name="about">关于我们</string>
+    <string name="setting_clearCache">清除缓存(%s)</string>
+    <string name="setting_bottom">Copyright @2015 59store.All Rights Reserved</string>
+    <string name="processing">处理中…</string>
+    <string name="check_new_version">检测新版本中…</string>
+    <string name="no_new_version">已经是最新版本了</string>
+    <string name="please_wait">请稍候…</string>
+    <string name="download_new_version">正在下载</string>
+    <!-- 关于我们 -->
+    <string name="about_version">版本V</string>
+    <string name="about_phone_hint">客服电话</string>
+    <string name="about_phone">4001185959</string>
+    <string name="about_dorm">关于夜猫店</string>
+    <string name="about_company">上海舞九信息科技有限公司\nCopyright ©2015 59store. All Rights Reserved</string>
+    <!-- userinfo -->
+    <string name="userinfo_icon">头像</string>
+    <string name="userinfo_uname">用户名</string>
+    <string name="userinfo_contact_info">联系方式</string>
+    <string name="userinfo_address">取货地址</string>
+    <string name="userinfo_alipay_name">支付宝账号</string>
+    <string name="userinfo_notic">公告</string>
+    <string name="userinfo_ok">完成</string>
+    <!-- order -->
+    <string name="order_center">订单中心</string>
+    <string name="order_code">订单编号：</string>
+    <string name="order_amount">合计：</string>
+    <string name="order_time">下单时间：</string>
+    <string name="order_address">送货地址：</string>
+    <string name="order_phone">联系电话：</string>
+    <string name="order_paytype">付款方式：</string>
+    <string name="order_nickname">顾客昵称：</string>
+    <string name="order_remark">顾客留言：</string>
+    <string name="order_neworder_num">（首次下单）</string>
+    <string name="order_product">查看商品</string>
+    <string name="order_cancel">取消订单</string>
+    <string name="order_confirm">确认送达</string>
+    <string name="order_cash_pay">现金收款</string>
+    <string name="order_getcash_pay">现金付款</string>
+    <string name="order_delivery_pay">送达收款</string>
+    <string name="order_start_dispos">开始处理</string>
+   	<string name="order_details">订单详情</string>
+   	<string name="date">日期</string>
+   	<string name="orderNum">订单数</string>
+   	<string name="order_money">交易额(&#165;)</string>
+   	<string name="good_uitl">件</string>
+   	<string name="no_more_things">没有更多了</string>
+   	<string name="order_empty">没有订单信息</string>
+   	<string name="order_item_count">共%d件</string>
+   	<string name="order_discount_amount">优惠券抵扣：</string>
+    <string name="order_promotion_discount_amount">活动优惠：</string>
+   	<string name="out_of_pocket">实付：</string>
+   	<string name="zero">0</string>
+    <string name="tourist">游客</string>
+    <string name="phone">拨打电话</string>
+
+    <!-- 夜猫店&饮品店的历史订单-->
+    <string name="yemao">夜猫店</string>
+    <string name="drink">饮品店</string>
+
+    <string name="please_scann_code">请用户扫描此二维码付款</string>
+    <string name="scanner_order_amount">订单金额：&#165;%.2f</string>
+    <string name="scanner_error">二维码获取失败，点击图片重新获取</string>
+    <string name="payment_code">收款码</string>
+    <string name="payment_pay">店长代付</string>
+    <string name="payment_scan">扫一扫</string>
+   	<!-- dormentryManager -->
+   	<string name="dormentry_warning">其他楼主正在营业,不允许开关店</string>
+    <string name="notic">楼主公告</string>
+    <string name="dorm_notic_title">夜猫店公告</string>
+   	<string name="drink_notic_title">饮品店公告</string>
+   	<string name="loading">正在加载</string>
+   	<string name="under_submission">正在提交</string>
+   	<string name="error_updatePushStatus">修改状态失败</string>
+   	<!-- edit user info -->
+   	<string name="cancel">取消</string>
+   	<string name="save">保存</string>
+   	<string name="enter">请输入</string>
+
+    <string name="submit_info">提交信息</string>
+    <string name="submitted_list">已提交列表</string>
+    <string name="submit">提交</string>
+
+    <string name="recommend_no">邀请码</string>
+    <string name="recommend_no_hint">请输入邀请码</string>
+
+    <string name="uname_tag">用户名：</string>
+    <string name="code_tag">邀请码：</string>
+    <string name="verify_pass">验证通过</string>
+
+    <string name="list_no_data">这里什么都没有……</string>
+
+    <!-- 到店付-->
+   	<string name="toshopping">收银台</string>
+    <string name="checkout_shopping">核对商品</string>
+    <string name="selecte_finish">选好了</string>
+    <string name="pay">收款</string>
+    <string name="pay_finish">收款完成</string>
+    <string name="amount_float">总计：&#165;%.2f</string>
+    <string name="float_text">&#165;%.2f</string>
+    <string name="float_text_negative">-&#165;%.2f</string>
+    <string name="shopping_count">共%d件</string>
+    <string name="amount_shopping">总计：</string>
+    <string name="shopping_good_empty">暂无数据</string>
+    <string name="money_unit">&#165;</string>
+    <string name="amount_not_unit">%.2f</string>
+    <string name="stock">库存：%d</string>
+
+    <string name="weichat_scanner">微信扫一扫刷卡</string>
+    <string name="alipay_scanner">支付宝收款码</string>
+    <string name="scan_text">将取景框对准二维码, 即可自动扫描</string>
+    <string name="scan_alipay_text">支付宝收款码</string>
+    <string name="qr_code">二维码</string>
+    <!-- 提示-->
+    <string name="hint">提示</string>
+    <string name="shopping_clear_hint">返回将清空已选择内容，是否继续？</string>
+    <string name="delete_current_item">确认要删除这个商品吗？</string>
+    <string name="continue_text">继续</string>
+    <string name="determine">确定</string>
+    <string name="pay_sucess">收款成功</string>
+    <string name="pay_field">收款失败</string>
+    <string name="cancel_sucess">取消成功</string>
+    <string name="pay_error">收款失败，此单无法生成</string>
+    <string name="pay_online_failed">请用户输入支付密码</string>
+    <string name="pay_online_failed_retry">未收到款项，请确认用户是否支付成功</string>
+    <string name="online_pay_finish">支付完成</string>
+    <string name="notic_empty_hint">请输入新的公告</string>
+    <string name="notic_clear_hint">您有未提交的公告，确定要返回吗？</string>
+    <string name="dormentry_empty">暂无楼栋信息</string>
+    <string name="have_dorm_not_open_hint">您有楼栋未开启，是否开启?</string>
+    <string name="find_new_version">发现新版本%s</string>
+    <string name="cancle_hint">确定要取消当前操作？</string>
+    <string name="exit_hint">确定要退出当前账号？</string>
+    <string name="confirm_delivery_title">确认已送达吗</string>
+    <string name="confirm_delivery_hint">请在成功送货后确认</string>
+
+    <string name="is_cancel_hint">是否取消此订单？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="download">下载</string>
+    <!--分享-->
+    <string name="sina_weibo">新浪微博</string>
+    <string name="wechat_friend">微信好友</string>
+    <string name="friend_circle">朋友圈</string>
+    <string name="send_sms">发送短信</string>
+
+    <string name="app_done">完成</string>
+    <string name="app_fail">失败</string>
+    <string name="app_cancel">取消</string>
+    <string name="send_ok">分享成功</string>
+    <!-- 新浪分享成功失败的 Toast -->
+    <string name="weibosdk_demo_toast_share_success">分享成功</string>
+    <string name="weibosdk_demo_toast_share_failed">分享失败</string>
+    <string name="weibosdk_demo_toast_share_canceled">取消分享</string>
+    <string name="weibosdk_demo_toast_share_response_args_success">收到微博发起的请求成功</string>
+    <string name="weibosdk_demo_toast_share_response_args_failed">收到客户端请求消息失败</string>
+    
+    <!--我的59-->
+    <string name="mine_invite_user">邀请白借借用户</string>
+    <string name="mine_help_center">帮助中心</string>
+    <string name="mine_system_setting">系统设置</string>
+    
+    <!--我的银行卡-->
+    <string name="mine_account_bank">所属银行</string>
+    <string name="mine_account_address">开户地</string>
+    <string name="mine_account_point">开户网点</string>
+    <string name="mine_account_number">银行卡号</string>
+    
+    <string name="mine_account_bank_select">请选择银行</string>
+    <string name="mine_account_bank_title">我的银行卡</string>
+    <string name="mine_account_bank_select_title">选择银行卡</string>
+    
+    <!--帮助中心-->
+    <string name="help_service_telephone">客服热线</string>
+    <string name="help_service_qq">客服QQ</string>
+    <string name="help_feedback">意见反馈</string>
+    <string name="help_service_qq_value">4006159591</string>
+    <string name="help_service_telephone_value">4001185959</string>
+    
+    <!--个人信息-->
+    <string name="user_avatar">头像</string>
+    <string name="user_name">姓名</string>
+    <string name="user_gender">性别</string>
+    <string name="user_ID">ID</string>
+    <string name="user_business">业务</string>
+    <string name="user_telephone">联系电话</string>
+    <string name="user_address">供货地址</string>
+    <string name="user_card_tips">银行卡（用于提现）</string>
+    <string name="user_add_bank">添加银行卡</string>
+    <string name="user_bank_number">尾号%s</string>
+    
+    <string name="loading_avatar">数据正在上传，请稍候</string>
+    
+    <!--编辑个人资料-->
+    <string name="user_edit_title">我的信息</string>
+    <!--更换联系电话-->
+    <string name="user_edit_phone_title">更换联系电话</string>
+    <string name="user_edit_phone_tips">请先验证原绑定手机号</string>
+    <string name="user_edit_phone_current">原绑定手机</string>
+    <string name="user_edit_phone_vcode">验证码</string>
+    <string name="user_edit_phone_vcode_hint">6位数字</string>
+    <string name="user_edit_phone_vcode_get">获取验证码</string>
+    <string name="user_edit_phone_next">下一步</string>
+</resources>
